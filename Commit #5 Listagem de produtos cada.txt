@@ -1,0 +1,4 @@
+Commit #5: Listagem de produtos cadastrados na tela de listagem
+bash
+Copiar
+Criada a tela de listagem de produtos. A tela exibe todos os produtos cadastrados no banco de dados usando uma tabela (`JTable`).

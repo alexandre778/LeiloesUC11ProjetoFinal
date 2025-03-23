@@ -1,0 +1,4 @@
+Commit #2: Exibição de mensagem de sucesso ou erro após o cadastro
+bash
+Copiar
+Implementada a exibição de mensagem de sucesso ou erro ao salvar o produto. Uma mensagem é mostrada ao usuário informando se o cadastro foi bem-sucedido ou não.

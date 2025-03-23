@@ -1,0 +1,4 @@
+Commit #3: Tela de cadastro definida como tela principal
+bash
+Copiar
+Definida a tela de cadastro (CadastroVIEW) como a tela principal que será aberta ao iniciar o programa.

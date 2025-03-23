@@ -1,0 +1,4 @@
+Commit #7: Filtro para listar apenas itens vendidos na tela de vendas
+bash
+Copiar
+Adicionado o filtro para listar apenas os produtos com status "Vendido" na tela de vendas. A tabela agora exibe somente os produtos vendidos.

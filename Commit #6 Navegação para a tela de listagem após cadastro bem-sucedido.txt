@@ -1,0 +1,5 @@
+
+Commit #6: Navegação para a tela de listagem após cadastro bem-sucedido
+bash
+Copiar
+Implementada a navegação automática para a tela de listagem de produtos após o cadastro de um novo
